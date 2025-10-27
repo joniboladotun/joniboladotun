@@ -1,12 +1,3 @@
-Excellent, Dotun 💪 — since you want your **entire GitHub profile README** rebuilt *from scratch*, and to comprehensively reflect **all your domains** —
-→ **Geospatial Data Science**,
-→ **Mining & Exploration**, and
-→ **Cloud & DevOps Engineering**,
-
-I’ve now crafted a complete, **professional, optimized GitHub profile README**, combining your real experience (from your CV), published research, tools, and ongoing cloud projects.
-
-You can paste this directly into your GitHub’s `README.md` file (as explained earlier).
-
 ---
 
 # 🌍 **Oladotun Jonibola — Geospatial Data Scientist | Mining & Cloud Professional**
