@@ -44,7 +44,7 @@ VSCode • Git • GitHub • Jira • PostgreSQL • GeoJSON • n8n Automation
 
 *Published Research — [International Journal of Research in Applied, Natural and Social Sciences](https://ns2.impactjournals.us/download/archives/-1494656755-1.format-app.GROUNDWATER%20POTENTIAL%20EVALUATION%20IN%20A%20TYPICALHARDROCK%20TERRAIN%20USING%20GRRAT%20INDEX%20MODEL.pdf)*
 
-* Developed the **GRRAT (Groundwater Recharge, Runoff, and Terrain)** model for assessing groundwater potential in a hardrock terrain.
+* Developed the **GRRAT (Geology of the study area, aquifer Resistivity, bedrock Relief, Aquifer type and Thickness)** model for assessing groundwater potential in a hardrock terrain.
 * Combined remote sensing, GIS, and hydrogeological datasets to classify aquifer productivity.
 * **Tools:** ArcGIS, QGIS, Surfer, Remote Sensing Imagery
 
